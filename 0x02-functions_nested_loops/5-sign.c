@@ -1,5 +1,3 @@
-vi 5-sign.c
-
 # include "main.h"
 /**
  * print_sign-check the sign of a number.
